@@ -11,3 +11,4 @@
 2. Creating a variable 'rand_num' in the hiLo_game function that holds a randomly generated number. 
 3. Use conditional statements to test if the guess is higher or lower than the guess. 
 4. Use print statements to let the user know that a guess is high, low, or a winner. 
+
